@@ -1,2 +1,1 @@
-# curly-octo-journey
-este es un repositorio para el modulo2 de herny
+prueba de como crear un repositorio y clonarlo desde github a la computadora
