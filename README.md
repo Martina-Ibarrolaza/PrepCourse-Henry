@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Prueba de creación de repositorio en nube - Módulo 2 Henry
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora
